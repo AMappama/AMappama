@@ -1,4 +1,4 @@
-# 谢顺子 · Shunzi
+#  Shunzi
 
 一年 IVD 算法工程师，正在走进 AI 全栈。深圳。喜欢卡通，也写代码。
 
@@ -17,5 +17,4 @@
 ## 现在
 
 - 学全栈，用作品集跟社区见面。
-- 医学影像这条线还没放下，想在 **VTK** / **DCMTK** 上找人一起做。
 - 文章先发在 Superlinear，网站上可以慢慢读：[思维逻辑在工具之上](https://amappama.github.io/shunzi/posts/thinking-above-tools.html) · [两个 aha 之后](https://amappama.github.io/shunzi/posts/two-aha-moments.html) · [代码几乎是 AI 写的](https://amappama.github.io/shunzi/posts/ai-wrote-the-code.html)
