@@ -12,4 +12,4 @@
 
 - **[选销易](https://github.com/AMappama/industry-select-product)** — 工业零部件选型
 - **[MedRWA](https://github.com/AMappama/med-rwa-demo)** — 医疗应收收益权运营台 Demo
-- **[shunzi](https://github.com/AMappama/shunzi)** — 个人网站
+
