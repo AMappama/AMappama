@@ -1,4 +1,4 @@
-# 谢顺子 · Shunzi
+# Shunzi
 
 一年 IVD 算法工程师，正在走进 AI 全栈。深圳。
 
