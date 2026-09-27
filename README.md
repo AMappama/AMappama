@@ -1,12 +1,12 @@
 # Shunzi
 
-一年 IVD 算法工程师，正在走进 AI 全栈。深圳。
+IVD 算法 -> AI 全栈。base深圳。
 
 从 Builder 到 Orchestrator。作品、文章和联系方式在个人网站。
 
 **[个人网站](https://amappama.github.io/shunzi/)**　·　[Superlinear](https://www.superlinear.academy/u/a72b9dac)　·　[xieshz@88.com](mailto:xieshz@88.com)
 
-正在找 AI 全栈方向的机会。
+目前在婚恋领域做ai全栈工程师
 
 ## 仓库
 
